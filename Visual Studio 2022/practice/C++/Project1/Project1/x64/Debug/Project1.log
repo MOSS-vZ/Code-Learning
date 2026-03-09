@@ -1,0 +1,3 @@
+﻿  class4.cpp
+D:\学习\Visual Studio 2022\C++\Project1\Project1\class4.cpp(7,9): warning C4101: “i”: 未引用的局部变量
+  Project1.vcxproj -> D:\学习\Visual Studio 2022\C++\Project1\x64\Debug\Project1.exe

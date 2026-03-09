@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5B66\u4E60\\Visual Studio 2022\\C\u8BED\u8A00\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D95D1CCB-911C-4402-9DA7-8F598ECE1936}|Project1\\Project1.vcxproj|D:\\\u5B66\u4E60\\Visual Studio 2022\\C\u8BED\u8A00\\Project1\\Project1\\practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D95D1CCB-911C-4402-9DA7-8F598ECE1936}|Project1\\Project1.vcxproj|solutionrelative:Project1\\practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95D1CCB-911C-4402-9DA7-8F598ECE1936}|Project1\\Project1.vcxproj|D:\\\u5B66\u4E60\\Visual Studio 2022\\C\u8BED\u8A00\\Project1\\Project1\\\u7EC3\u4E60.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D95D1CCB-911C-4402-9DA7-8F598ECE1936}|Project1\\Project1.vcxproj|solutionrelative:Project1\\\u7EC3\u4E60.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practice.cpp",
+              "DocumentMoniker": "D:\\\u5B66\u4E60\\Visual Studio 2022\\C\u8BED\u8A00\\Project1\\Project1\\practice.cpp",
+              "RelativeDocumentMoniker": "Project1\\practice.cpp",
+              "ToolTip": "D:\\\u5B66\u4E60\\Visual Studio 2022\\C\u8BED\u8A00\\Project1\\Project1\\practice.cpp",
+              "RelativeToolTip": "Project1\\practice.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-26T04:40:52.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u7EC3\u4E60.cpp",
+              "DocumentMoniker": "D:\\\u5B66\u4E60\\Visual Studio 2022\\C\u8BED\u8A00\\Project1\\Project1\\\u7EC3\u4E60.cpp",
+              "RelativeDocumentMoniker": "Project1\\\u7EC3\u4E60.cpp",
+              "ToolTip": "D:\\\u5B66\u4E60\\Visual Studio 2022\\C\u8BED\u8A00\\Project1\\Project1\\\u7EC3\u4E60.cpp",
+              "RelativeToolTip": "Project1\\\u7EC3\u4E60.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T15:20:10.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

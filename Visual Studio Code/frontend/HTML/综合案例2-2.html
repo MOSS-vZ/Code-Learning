@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人信息注册</title>
+</head>
+
+<body>
+    <form action="">
+        <!-- 加form标签后button标签才能发挥作用 -->
+        <h1>注册信息</h1>
+        <h2>个人信息</h2>
+        <label>姓名：</label><input type="text" placeholder="请输入真实姓名">
+        <!-- 用label标签包裹后光标在接触文字后就不会变成输入模式 -->
+        <br><br>
+        <label>密码：</label><input type="password" placeholder="请输入密码">
+        <br><br>
+        <label>确认密码：</label><input type="password" placeholder="请再次输入密码">
+        <br><br>
+        性别：<input type="radio" name="gender" id="man"><label for="man">男</label>
+        <input type="radio" name="gender" id="women"><label for="women">女</label>
+        <br><br>
+        居住城市：
+        <select>
+            <option>北京</option>
+            <option>天津</option>
+            <option>哈尔滨</option>
+            <option>长春</option>
+            <option>沈阳</option>
+            <option>石家庄</option>
+            <option>济南</option>
+            <option>杭州</option>
+            <option>西安</option>
+            <option>郑州</option>
+            <option>洛阳</option>
+            <option>武汉</option>
+            <option>襄阳</option>
+            <option>银川</option>
+            <option>西宁</option>
+            <option>拉萨</option>
+            <option>昆明</option>
+            <option>荆门</option>
+            <option>宜昌</option>
+            <option>荆州</option>
+            <option>孝感</option>
+            <option>长沙</option>
+            <option>南京</option>
+            <option>乌鲁木齐</option>
+            <option>呼和浩特</option>
+            <option>广州</option>
+            <option>深圳</option>
+            <option>福州</option>
+            <option>厦门</option>
+            <option>南昌</option>
+            <option>桂林</option>
+            <option>贵州</option>
+            <option>香港</option>
+            <option>澳门</option>
+            <option>台北</option>
+            <option>重庆</option>
+            <option>成都</option>
+        </select>
+        <h2>教育经历</h2>
+        最高学历：
+        <select>
+            <option>博士</option>
+            <option>硕士</option>
+            <option>本科</option>
+            <option>专科</option>
+            <option>高中</option>
+            <option>初中</option>
+            <option>小学及以下</option>
+        </select>
+        <br><br>
+        学校名称：<input type="text">
+        <br><br>
+        所学专业：<input type="text">
+        <br><br>
+        在校时间：
+        <select>
+            <option>2018</option>
+            <option>2019</option>
+            <option>2020</option>
+            <option>2021</option>
+            <option>2022</option>
+            <option>2023</option>
+            <option>2024</option>
+            <option>2025</option>
+        </select>
+        ---
+        <select>
+            <option>2022</option>
+            <option>2023</option>
+            <option>2024</option>
+            <option>2025</option>
+            <option>至今</option>
+        </select>
+        <h2>工作经历</h2>
+        公司名称：<input type="text">
+        <br><br>
+        工作描述：
+        <br>
+        <textarea></textarea>
+        <br><br>
+        <input type="checkbox">已阅读并同意以下协议：
+        <ul>
+            <li><a href="#">《用户服务协议》</a></li>
+            <li><a href="#">《隐私协议》</a></li>
+        </ul>
+        <br><br>
+        <button type="submit">免费注册</button>&nbsp;&nbsp;<button type="reset">重新填写</button>
+    </form>
+</body>
+
+</html>
